@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: aliceblue;
+  color: rgb(0, 0, 0);
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  padding: 3em;
+  border-radius: 25px;
+  font-size: 30pt;
+  cursor: pointer;
+}
